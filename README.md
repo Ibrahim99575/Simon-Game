@@ -34,10 +34,8 @@ You can try the game live here: [Simon Game Demo](https://ibrahim99575.github.io
 To run this game locally, follow these steps:
 
 1. Clone this repository to your local machine using `git clone`.
+- git clone https://github.com/your-username/simon-game.git
 
-\```bash
-git clone https://github.com/your-username/simon-game.git
-\```
 1. Open the project folder in your code editor.
 2. Open index.html in your web browser to start playing.
 
