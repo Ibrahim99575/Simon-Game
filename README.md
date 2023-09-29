@@ -52,5 +52,5 @@ To run this game locally, follow these steps:
 - Contributions are welcome! If you have any improvements or feature suggestions, feel free to create issues or submit pull requests.
 
 ## License
-- This project is licensed under the <a href="https://github.com/Ibrahim99575/web-drum-play/blob/fd574d3b7ff978c83c95bece92f8c7ba4486b120/LICENSE/">MIT License</a>.
+- This project is licensed under the <a href="https://github.com/Ibrahim99575/Simon-Game/blob/65db77ef7bf863f3f7aa697cdf17da874de6fc72/LICENSE/">MIT License</a>.
 
